@@ -36,12 +36,14 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 <img src="https://github-readme-stats.vercel.app/api?username=richban&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richban&show_icons=true&theme=radical&layout=compact" alt="languages" height="165">
 </p>
 
+# Weekly development breakdown
+
 <!--START_SECTION:waka-->
 ```text
-Python     24 hrs 55 mins  ████████████████▓░░░░░░░░   66.64 % 
-VimL       3 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Other      2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Markdown   1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Text       1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python     24 hrs 55 mins  ████████████████▓░░░░░░░░   66.64 %
+VimL       3 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Other      2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Markdown   1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Text       1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 <!--END_SECTION:waka-->
