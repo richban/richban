@@ -35,3 +35,6 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=richban&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richban&show_icons=true&theme=radical&layout=compact" alt="languages" height="165">
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
