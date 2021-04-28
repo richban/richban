@@ -7,8 +7,8 @@
 
 I'm a Software Engineer specialized in DE and ML engineering.<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently building ETL pipelines on Databricks
-- 🌱 I’m currently learning Google Kubernetes
+- 🔭 I’m currently building a PaaS product for one of the largest retailers in the world
+- 🌱 I’m currently learning GCP
 - 👯 I’m looking to collaborate on anything Open Source
 - 🤔 I’m looking for help with ROS (navigation)
 - 💬 Ask me about anything, I am happy to help
