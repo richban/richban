@@ -40,10 +40,10 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   9 hrs 46 mins   ██████████████░░░░░░░░░░░   56.01 % 
-Python       3 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.15 % 
-JSON         1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Git          56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Bash         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Other        3 hrs 43 mins   ████████████▓░░░░░░░░░░░░   50.17 % 
+TypeScript   1 hr 46 mins    ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Python       27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Git          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Bash         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 <!--END_SECTION:waka-->
