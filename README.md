@@ -40,6 +40,10 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+ON         27 mins         █████████████████▓░░░░░░░   71.20 % 
+fugitive   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Markdown   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+dosini     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 <!--END_SECTION:waka-->
