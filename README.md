@@ -40,10 +40,10 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 
 <!--START_SECTION:waka-->
 ```text
-ON         13 hrs 39 mins  ███████████████████████▒░   93.11 % 
-fugitive   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-YAML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-CSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+ON         15 hrs 43 mins  ███████████████████████▒░   93.94 % 
+fugitive   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+YAML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Text       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
