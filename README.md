@@ -40,10 +40,10 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 
 <!--START_SECTION:waka-->
 ```text
-ON           10 hrs 52 mins  ████████████████░░░░░░░░░   64.16 % 
-Lua          2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-SQL          44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-YAML         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Git Config   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+ON       6 hrs 40 mins   ███████████░░░░░░░░░░░░░░   43.78 % 
+Lua      2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Python   2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+SQL      44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+YAML     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 <!--END_SECTION:waka-->
