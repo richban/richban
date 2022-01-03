@@ -40,9 +40,6 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 
 <!--START_SECTION:waka-->
 ```text
-Python       43 mins         ██████████████████▓░░░░░░   75.10 % 
-TypeScript   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Lua          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-YAML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
