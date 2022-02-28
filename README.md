@@ -39,7 +39,9 @@ I'm a Software Engineer specialized in DE and ML engineering.<img align="right" 
 # Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
