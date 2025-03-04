@@ -1,47 +1,30 @@
-# Hello! I'm richban. 👋
+# 👋 Hey, I'm Rich
 
-![Twitter Follow](https://img.shields.io/twitter/follow/richban?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/richban?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://richban.tech/)](https://richban.tech/)
-![](https://visitor-badge.glitch.me/badge?page_id=richban.richban)
+Data Engineer | Systems Thinker | CrossFit Enthusiast
 
-I'm a Software Engineer specialized in DE and ML engineering.<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+I build scalable data solutions that power decision-making. Passionate about designing analytics platforms, optimizing data pipelines, and creating efficient, high-performance systems.
 
-- 🔭 I’m currently building a PaaS product for one of the largest retailers in the world
-- 🌱 I’m currently learning GCP
-- 👯 I’m looking to collaborate on anything Open Source
-- 🤔 I’m looking for help with ROS (navigation)
-- 💬 Ask me about anything, I am happy to help
+🚀 **Recent Work**
+- [Building a Modern Open Data Platform](https://github.com/richban/opendata-stack-platform)
+- Built an OLAP analytics platform for financial institutions to assess climate risk.
+- Optimized ETL/ELT pipelines to reduce processing time.
 
-## Tools
+🛠 **Tech I Work With**  
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-
-<br>
-
-# 🧬 Stats
-
-<br>
-<!-- My GitHub stats with buefy theme ❤️ -->
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=richban&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richban&show_icons=true&theme=radical&layout=compact" alt="languages" height="165">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DuckDB-4A4A4A?style=flat-square&logo=duckdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dagster-072635?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" />
 </p>
 
-# Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+💡 **Currently Exploring**
+- Functional Data Engineering & Adnvanced Database Systems
+- Multi-engine data stacks (DuckDB locally, Snowflake in the cloud)
+- Training for Rx Murph (working on those butterfly pull-ups!)
