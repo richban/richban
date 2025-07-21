@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rich
 
-Data Engineer | Systems Thinker | CrossFit Enthusiast
+Data Engineer | CrossFit Enthusiast
 
 I build scalable data solutions that power decision-making. Passionate about designing analytics platforms, optimizing data pipelines, and creating efficient, high-performance systems.
 
