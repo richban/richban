@@ -28,3 +28,5 @@ I build scalable data solutions that power decision-making. Passionate about des
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" />
 </p>
+
+![My GitHub Game](game.gif)
